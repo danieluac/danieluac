@@ -11,8 +11,8 @@
 - - - web Api
 - Frontend
 - - Javascript/Typescript
-- - - Angular
-- - - Jquery Framework
+- - - Angular Framework
+- - - Jquery 
 - - CSS
 - - - SCSS with SASS
 - - - Bootstrap
