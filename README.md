@@ -1,16 +1,27 @@
 ### Hi there 👋
 
-<!--
-**danieluac/danieluac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am fullstack Developer with:**
+- Backend
+- - Python
+- - PHP
+- - C#
+- Frontend
+- - Javascript
+- - Typescript
+- - Angular
+- - Jquery
+- - SCSS with SASS
+- - HTML5
 
-Here are some ideas to get you started:
+#### 🔭 I’m currently working at Alien-Group as Frontend Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+All my activity is around
+- - Javascript, SCSS, HTML, XML, Qweb framework for Oddo Developers
+- - Sometimes Python
+#### 🌱 I’m currently learning Python and SCSS...
+#### 👯 I’m currently collaborating in alot projects as freelance
+### ⚡ I am youtobe creator
+##### 💬 If You need talk or know more about me, you can find me in
+- - linkedin: https://www.linkedin.com/in/danieluac/
+- - youtobe: https://www.youtube.com/channel/UCZ1l98TPmhZr8r2cx18CCVQ?view_as=subscriber
+
