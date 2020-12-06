@@ -4,13 +4,19 @@
 - Backend
 - - Python
 - - PHP
+- - - Laravel
 - - C#
+- - - .Net Core
+- - - Entity Framework
+- - - web Api
 - Frontend
-- - Javascript
-- - Typescript
-- - Angular
-- - Jquery
-- - SCSS with SASS
+- - Javascript/Typescript
+- - - Angular
+- - - Jquery Framework
+- - CSS
+- - - SCSS with SASS
+- - - Bootstrap
+- - - Materialize
 - - HTML5
 
 #### 🔭 I’m currently working at Alien-Group as Frontend Developer
