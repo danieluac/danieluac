@@ -23,5 +23,5 @@ All my activity is around
 ### ⚡ I am youtobe creator
 ##### 💬 If You need talk or know more about me, you can find me in
 - - linkedin: https://www.linkedin.com/in/danieluac/
-- - youtobe: https://www.youtube.com/channel/UCZ1l98TPmhZr8r2cx18CCVQ?view_as=subscriber
+- - youtube: https://www.youtube.com/channel/UCZ1l98TPmhZr8r2cx18CCVQ?view_as=subscriber
 
