@@ -38,3 +38,11 @@ All my activity is around
 [![GitHub danieluac](https://img.shields.io/github/followers/danieluac?label=follow&style=social)](https://github.com/danieluac)
 
 <img src="https://github-readme-stats.vercel.app/api?username=danieluac&&show_icons=true&title_color=00bfff&icon_color=00bfff&text_color=ffffff&bg_color=151515">
+
+<p align="center">
+<a href="https://arshiamidos.github.io">
+    <p>
+        <img src="https://github-profile-trophy.vercel.app/?username=danieluac&column=7&theme=dracula" />
+    </p>
+</a>
+</p>
