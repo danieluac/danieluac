@@ -1,3 +1,8 @@
+<h1 align="center"> 
+  VISITOR COUNT<br>
+  <img src="https://profile-counter.glitch.me/AlienDev66/count.svg" />
+</h1>
+
 ### Hi there 👋
 
 **I am fullstack Developer with:**
