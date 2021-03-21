@@ -9,7 +9,7 @@
 
 ### Hi there 👋
 
-**I am fullstack Developer with:**
+**I am fullstack Developer**
 - Backend
 - - Python
 - - PHP
