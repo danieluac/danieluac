@@ -12,12 +12,9 @@
 **I am fullstack Developer**
 - Backend
 - - Python
+- - - Django
 - - PHP
 - - - Laravel
-- - C#
-- - - .Net Core
-- - - Entity Framework
-- - - web Api
 - Frontend
 - - Javascript/Typescript
 - - - Angular Framework
@@ -31,8 +28,7 @@
 #### 🔭 I’m currently working at Alien-Group as Frontend Developer
 
 All my activity is around
-- - Javascript, SCSS, HTML, XML, Qweb framework for Oddo Developers
-- - Sometimes Python
+- - Python, Javascript, SCSS, HTML, XML, Odoo OWL, Qweb framework for Oddo Developers
 #### 🌱 I’m currently learning Python and SCSS...
 #### 👯 I’m currently collaborating in alot projects as freelance
 ### ⚡ I am youtobe creator
