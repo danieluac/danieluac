@@ -10,26 +10,11 @@
 ### Hi there 👋
 
 **I am fullstack Developer**
-- Backend
-- - Python
-- - - Django
-- - PHP
-- - - Laravel
-- Frontend
-- - Javascript/Typescript
-- - - Angular Framework
-- - - Jquery 
-- - CSS
-- - - SCSS with SASS
-- - - Bootstrap
-- - - Materialize
-- - HTML5
 
-#### 🔭 I’m currently working at Alien-Group as Frontend Developer
 
 All my activity is around
 - - Python, Javascript, SCSS, HTML, XML, Odoo OWL, Qweb framework for Oddo Developers
-#### 🌱 I’m currently learning Python and SCSS...
+#### 🌱 I’m currently learning Python Machine learning...
 #### 👯 I’m currently collaborating in alot projects as freelance
 ### ⚡ I am youtobe creator
 ##### 💬 If You need talk or know more about me, you can find me in
