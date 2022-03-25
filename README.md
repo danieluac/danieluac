@@ -3,17 +3,9 @@
   <img src="https://profile-counter.glitch.me/AlienDev66/count.svg" />
 </h1>
 
-|<strong> Python </strong>|<strong> JavaScript </strong>|<strong> TypeScript </strong>| <strong> HTML5 </strong>|<strong> CSS3 </strong>|<strong> Angular</strong>|PHP
-|-|-|-|-|-|-|-
-|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/1822/1822899.svg"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/919/919828.svg"/>|<img height="30" src="https://duckduckgo.com/i/b3730d88.png"/>|<img height="30" src="https://www.flaticon.com/svg/static/icons/svg/888/888859.svg"/>||<img height="30" src="https://angular.io/assets/images/logos/angular/angular.svg"/>|<img height="30" src="https://www.php.net/images/php8/logo_php8.svg"/>
-
 ### Hi there 👋
 
 **I am fullstack Developer**
-
-
-All my activity is around
-- - Python, Javascript, SCSS, HTML, XML, Odoo OWL, Qweb framework for Oddo Developers
 #### 🌱 I’m currently learning Python Machine learning...
 #### 👯 I’m currently collaborating in alot projects as freelance
 ### ⚡ I am youtobe creator
