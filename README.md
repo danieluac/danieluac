@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-**I am fullstack Developer**
+**I am fullstack & Odoo Developer**
 #### 🌱 I’m currently learning Python Machine learning...
 #### 👯 I’m currently collaborating in alot projects as freelance
 ### ⚡ I am youtobe creator
